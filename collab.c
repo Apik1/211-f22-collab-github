@@ -21,11 +21,16 @@ void reed_ekidan2() {
   printf("We learned that git and GitHub are amazing, powerful tools!\n");
 }
 
+void mzurn2_lbrya3(){
+  printf("Max Zurniewicz and Larry Bryant\n");
+  printf("We learned how to make branches a program and then add those changes to the main branch.\n");
+}
+
 int main()
 {
     printf("This code has been created by the students of CS 211, Fall 2022!\n\n");
     
-    reed_ekidan2();
+    mzurn2_lbrya3();
     
     return 0;
 }
